@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Comstock</h1>
-<h3 align="center">A digital artist and burgeoning software engineer living in SLC, Utah!</h3>
+<h3 align="center">A digital artist and burgeoning software engineer living in Utah!</h3>
 
 - 🔭 I’m currently working on **a personal website for my art portfolio!**
 
